@@ -1,0 +1,46 @@
+header {
+    font-size:70px;
+    font-family: fantasy;
+    color: black;
+    
+}
+body {
+    background-color: black;
+}
+li {
+    font-size: 40px;
+    
+}
+.nav {
+    height: 55px;
+    width: 850px;
+    
+    
+}
+.nav ul {
+   margin: 0; 
+   padding: 0;
+}
+.nav ul li {
+   list-style: none;
+}
+.nav ul li a {
+   text-decoration: none;
+   float: right;
+   display: block;
+   padding: 10px  20px;
+   color: black;
+}
+.nav ul li a:hover {
+   color:rgb(68, 0, 255);
+}
+h1 {
+    font-size: 3rem;
+}
+
+h4 {
+    color: blue;
+    font-family: fantasy;
+    font-size: 3rem;
+}
+
